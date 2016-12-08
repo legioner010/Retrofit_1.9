@@ -6,7 +6,12 @@ import android.util.Log;
 import retrofit.RestAdapter;
 import retrofit.client.*;
 
-
+/*http://java-help.ru/retrofit-2-review/
+http://java-help.ru/retrofit-library/
+https://www.youtube.com/watch?v=hiCfG5WiVF8
+https://www.youtube.com/watch?v=5BA4xncZ3lc
+http://www.jsonschema2pojo.org/
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
